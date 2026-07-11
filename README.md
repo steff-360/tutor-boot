@@ -9,6 +9,10 @@ Tutor-Boot
 
 ---
 
+##  Credenciales:
+correo: yanehtarias12@gmail.com 
+comtraseña: garcia998877@
+
 ##  Introducción
 
 En el entorno educativo actual, la coordinación de asesorías académicas suele ser un proceso caótico y manual. Los estudiantes dependen de correos electrónicos o mensajes informales para encontrar un tutor, mientras que los tutores no tienen una agenda centralizada para gestionar su disponibilidad. Este proceso genera cruces de horarios, desatención de materias críticas y falta de trazabilidad.
