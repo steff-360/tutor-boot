@@ -9,9 +9,6 @@ Tutor-Boot
 
 ---
 
-##  Credenciales:
-correo: yanehtarias12@gmail.com 
-comtraseña: garcia998877@
 
 ##  Introducción
 
